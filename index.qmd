@@ -1,0 +1,34 @@
+---
+title: "☸️ Datagraha"
+---
+
+Make your data work for you
+
+Bespoke data science projects from 🧪 -\> 🏭
+
+## 🙏We offer
+
+-   Data science consulting\
+    Prototypes for a Proof-of-Concept, information extraction ...
+
+-   Data-driven products\
+    APIs, model hosting and monitoring ...
+
+-   Partner connect\
+    Find partner organisations to address your digitalisaiton needs ...
+
+## 💯 Our USP
+
+-   Industry experience: Real AI with real data
+
+-   Right-sized automation: Human in the loop solutions when needed
+
+-   International network of talent for everything data
+
+## ✉️ Get in touch
+
+Impressumstrasse 31, 76646 Impressheim, Germany
+
+info\@datagraha.com
+
++49-12345678910
