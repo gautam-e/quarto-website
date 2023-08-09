@@ -1,5 +1,5 @@
 ---
-title: "☸️ Datagraha"
+title: "Datagraha"
 ---
 
 Make your data work for you
