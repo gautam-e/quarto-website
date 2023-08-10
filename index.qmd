@@ -1,34 +1,52 @@
 ---
-title: "Datagraha"
+title: '{{< animate pulse "Datagraha" >}}'
 ---
 
 Make your data work for you
 
-Bespoke data science projects from 🧪 -\> 🏭
+Bespoke data science projects from 🧪 -> 🏭
 
-## 🙏We offer
+## 🙏 We offer
 
--   Data science consulting\
-    Prototypes for a Proof-of-Concept, information extraction ...
+:::{.grid}
 
--   Data-driven products\
-    APIs, model hosting and monitoring ...
+::: {.g-col-12 .g-col-md-4}
+Data science consulting\
+Prototypes for a Proof-of-Concept, information extraction ...
+:::
 
--   Partner connect\
-    Find partner organisations to address your digitalisaiton needs ...
+::: {.g-col-12 .g-col-md-4}
+Data-driven products\
+APIs including model hosting and monitoring ...
+:::
 
+::: {.g-col-12 .g-col-md-4}
+Partner connect\
+Find partner organisations to address your digitalisation needs ...
+:::
+
+:::
 ## 💯 Our USP
 
--   Industry experience: Real AI with real data
+:::{.grid}
 
--   Right-sized automation: Human in the loop solutions when needed
+::: {.g-col-12 .g-col-md-4}
+Industry experience: Best practices for real AI with real data
+:::
 
--   International network of talent for everything data
+::: {.g-col-12 .g-col-md-4}
+Right-sized automation: Human in the loop solutions when needed
+:::
 
+::: {.g-col-12 .g-col-md-4}
+International network of talent for everything data-related
+:::
+
+:::
 ## ✉️ Get in touch
 
 Impressumstrasse 31, 76646 Impressheim, Germany
 
-info\@datagraha.com
+info@datagraha.com
 
 +49-12345678910
