@@ -3,6 +3,7 @@ project:
 
 website:
   title: "☸️"
+  favicon: "☸️"
   navbar:
     left:
       - href: index.qmd

@@ -11,16 +11,26 @@ Bespoke data science projects from 🧪 -> 🏭
 :::{.grid}
 
 ::: {.g-col-12 .g-col-md-4}
+:::{style="font-size: 200%;"}
+🧑‍💻  
+:::
 Data science consulting\
 Prototypes for a Proof-of-Concept, information extraction ...
+
 :::
 
 ::: {.g-col-12 .g-col-md-4}
+:::{style="font-size: 200%;"}
+📦  
+:::
 Data-driven products\
 APIs including model hosting and monitoring ...
 :::
 
 ::: {.g-col-12 .g-col-md-4}
+:::{style="font-size: 200%;"}
+🌏 
+:::
 Partner connect\
 Find partner organisations to address your digitalisation needs ...
 :::
@@ -31,14 +41,23 @@ Find partner organisations to address your digitalisation needs ...
 :::{.grid}
 
 ::: {.g-col-12 .g-col-md-4}
+:::{style="font-size: 200%;"}
+🪂  
+:::
 Industry experience: Best practices for real AI with real data
 :::
 
 ::: {.g-col-12 .g-col-md-4}
+:::{style="font-size: 200%;"}
+❤️  
+:::
 Right-sized automation: Human in the loop solutions when needed
 :::
 
 ::: {.g-col-12 .g-col-md-4}
+:::{style="font-size: 200%;"}
+🌐  
+:::
 International network of talent for everything data-related
 :::
 
