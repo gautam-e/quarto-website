@@ -62,6 +62,17 @@ International network of talent for everything data-related
 :::
 
 :::
+
+## Use cases
+Select use cases that we draw experience from.
+
+### Automating component layout
+Customization and mass-manufacturing don't sit well together.
+However, one needs to keep customers happy and costs low. Data-driven approaches ensure that the number of iterations required to meet the requirements are kept to the minimum.
+
+### Field intelligence
+Data-driven approaches help you make sense of whats happening in your market without having to test the whole market. Make the most of the data available to you and cut costs and CO2 by collecting only the data that you really need to collect.
+
 ## ✉️ Get in touch
 
 Impressumstrasse 31, 76646 Impressheim, Germany
