@@ -1,10 +1,10 @@
 ---
-title: '{{< animate pulse "Datagraha" >}}'
+title: '{{< animate pulse "Boring Data" >}}'
 ---
 
-Make your data work for you
+We dig data 🫶
 
-Bespoke data science projects from 🧪 -> 🏭
+Unleash the potential of your data!
 
 ## 🙏 We offer
 
@@ -21,10 +21,10 @@ Prototypes for a Proof-of-Concept, information extraction ...
 
 ::: {.g-col-12 .g-col-md-4}
 :::{style="font-size: 200%;"}
-📦  
+⚒️  
 :::
-Data-driven products\
-APIs including model hosting and monitoring ...
+Data mining\
+Document processing by algorithms and real humans ...
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -42,7 +42,7 @@ Find partner organisations to address your digitalisation needs ...
 
 ::: {.g-col-12 .g-col-md-4}
 :::{style="font-size: 200%;"}
-🪂  
+🏭  
 :::
 Industry experience: Best practices for real AI with real data
 :::
@@ -66,12 +66,16 @@ International network of talent for everything data-related
 ## Use cases
 Select use cases that we draw experience from.
 
-### Automating component layout
-Customization and mass-manufacturing don't sit well together.
-However, one needs to keep customers happy and costs low. Data-driven approaches ensure that the number of iterations required to meet the requirements are kept to the minimum.
+### Automating component design in engineering
+![Engineering Design](assets/engineering.jpg){fig-align="center" width=40%}
 
-### Field intelligence
-Data-driven approaches help you make sense of whats happening in your market without having to test the whole market. Make the most of the data available to you and cut costs and CO2 by collecting only the data that you really need to collect.
+Customization and mass-manufacturing often don't sit well together.
+Data-driven approaches ensure that custom requirements are met quickly.
+
+### Automotive field intelligence for product quality
+![Field Quality](assets/quality.jpg){fig-align="center" width=40%}
+
+Machine learning applied to field data to make sense of whats happening in the market. This cost-effective approach is used to proactively manage field quality while kepping the CO2 footprint to the minimum.
 
 ## ✉️ Get in touch
 
