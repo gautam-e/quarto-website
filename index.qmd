@@ -1,79 +1,81 @@
 ---
-title: '{{< animate pulse "Boring Data" >}}'
+title: BORING DATA
 ---
 
-We dig data 🫶
+We dig data
 
 Unleash the potential of your data!
 
-## 🙏 We offer
+## Services
 
-:::{.grid}
-
+::: grid
 ::: {.g-col-12 .g-col-md-4}
-:::{style="font-size: 200%;"}
-🧑‍💻  
+::: {style="font-size: 200%;"}
+🧑‍💻
 :::
+
 Data science consulting\
-Prototypes for a Proof-of-Concept, information extraction ...
-
+Machine learning models for prototypes or APIs in production ...
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-:::{style="font-size: 200%;"}
-⚒️  
+::: {style="font-size: 200%;"}
+⚒️
 :::
+
 Data mining\
-Document processing by algorithms and real humans ...
+Document processing, webscraping by algorithms and real humans ...
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-:::{style="font-size: 200%;"}
-🌏 
-:::
-Partner connect\
-Find partner organisations to address your digitalisation needs ...
+::: {style="font-size: 200%;"}
+🤖
 :::
 
+Data-driven products\
+Bespoke search engines or chatbots to enable digitalisation for your organisation ...
 :::
-## 💯 Our USP
+:::
 
-:::{.grid}
+## Why us?
 
+::: grid
 ::: {.g-col-12 .g-col-md-4}
-:::{style="font-size: 200%;"}
-🏭  
+::: {style="font-size: 200%;"}
+🏭
 :::
+
 Industry experience: Best practices for real AI with real data
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-:::{style="font-size: 200%;"}
-❤️  
+::: {style="font-size: 200%;"}
+❤️
 :::
+
 Right-sized automation: Human in the loop solutions when needed
 :::
 
 ::: {.g-col-12 .g-col-md-4}
-:::{style="font-size: 200%;"}
-🌐  
+::: {style="font-size: 200%;"}
+🌐
 :::
+
 International network of talent for everything data-related
 :::
-
 :::
 
-## Use cases
-Select use cases that we draw experience from.
+## Select use cases that we draw experience from
 
-### Automating component design in engineering
-![Engineering Design](assets/engineering.jpg){fig-align="center" width=40%}
+### Data-driven design 
 
-Customization and mass-manufacturing often don't sit well together.
-Data-driven approaches ensure that custom requirements are met quickly.
+![](assets/engineering.jpg){fig-align="center" width="40%"}
 
-### Automotive field intelligence for product quality
-![Field Quality](assets/quality.jpg){fig-align="center" width=40%}
+Customization and mass-manufacturing often don't sit well together.\ Data-driven approaches ensure that custom requirements are met quickly.
+
+### Field intelligence for product quality
+
+![](assets/quality.jpg){fig-align="center" width="40%"}
 
 Machine learning applied to field data to make sense of whats happening in the market. This cost-effective approach is used to proactively manage field quality while kepping the CO2 footprint to the minimum.
 
@@ -81,6 +83,6 @@ Machine learning applied to field data to make sense of whats happening in the m
 
 Impressumstrasse 31, 76646 Impressheim, Germany
 
-info@datagraha.com
+info\@boringdata.ai
 
 +49-12345678910
