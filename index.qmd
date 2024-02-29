@@ -1,21 +1,30 @@
 ---
-title: BORING DATA
+title: reAUGMENT AI
 ---
 
-We dig data
+We are a hands-on AI consulting company
 
-Unleash the potential of your data!
+Unleash the true potential of humans with data and algorithms to drive business
 
 ## Services
 
 ::: grid
 ::: {.g-col-12 .g-col-md-4}
 ::: {style="font-size: 200%;"}
+🤖
+:::
+
+Data-driven products\
+Bespoke search engines, chatbots, APIs to enable digitalisation for your organisation ...
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {style="font-size: 200%;"}
 🧑‍💻
 :::
 
-Data science consulting\
-Machine learning models for prototypes or APIs in production ...
+Data science training\
+To enable your organisation and employees to be fit for the digital age ...
 :::
 
 ::: {.g-col-12 .g-col-md-4}
@@ -23,17 +32,8 @@ Machine learning models for prototypes or APIs in production ...
 ⚒️
 :::
 
-Data mining\
+Data collection and annotation\
 Document processing, webscraping by algorithms and real humans ...
-:::
-
-::: {.g-col-12 .g-col-md-4}
-::: {style="font-size: 200%;"}
-🤖
-:::
-
-Data-driven products\
-Bespoke search engines or chatbots to enable digitalisation for your organisation ...
 :::
 :::
 
@@ -81,8 +81,8 @@ Machine learning applied to field data to make sense of whats happening in the m
 
 ## ✉️ Get in touch
 
-Impressumstrasse 31, 76646 Impressheim, Germany
+Marianne-Kirchgessner-Strasse 31, 76646 Bruchsal, Germany
 
-info\@boringdata.ai
+info\@reaugment.ai
 
-+49-12345678910
++49-17683299041
