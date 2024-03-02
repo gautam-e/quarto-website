@@ -3,3 +3,9 @@ div{text-align: center;}
 .title {
     font-size: xx-large;
   }
+
+h1,
+h2 {
+  color: blueviolet;
+  font-weight: bold;
+}

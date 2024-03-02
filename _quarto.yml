@@ -9,20 +9,17 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-  page-footer:
-    background: light
-    left: "reAUGMENT AI (UG)" 
-    right: 
-      - icon: github
-        href: https://github.com/
-      - icon: twitter 
-        href: https://twitter.com/ 
+  page-footer: 
+    background: light 
+    center: 
+      - text: reAUGMENT AI (UG)
+        file: index.qmd
+      - text: Imprint
+        file: about.qmd
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: default
     css: styles.css
     toc: false
     fontsize: large
