@@ -1,11 +1,59 @@
 /* css styles */
-div{text-align: center;}
-.title {
-    font-size: xx-large;
-  }
 
-h1,
-h2 {
-  color: blueviolet;
-  font-weight: bold;
+div{text-align: center;}
+
+main {
+  margin-top: 0px;
 }
+
+#quarto-content>* {
+  padding-top: 0px;
+}
+
+.title {
+  font-size: xx-large;
+}
+
+#title-block-header{
+  margin-top: 0em;
+  padding-top: 1em;
+}
+
+.description {
+  padding-top: 1em;
+}
+
+#statement-1,
+#statement-2 {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+#statement-1 {
+  font-style: italic;
+}
+
+svg {
+  padding-top: 4em;
+}
+
+section#services {
+  padding-bottom: 1em;
+}
+
+
+header,
+section#why-us {
+  background: rgb(0,97,242);
+  background: linear-gradient(135deg, rgba(0,97,242,1) 0%, rgba(105,0,199,1) 100%); 
+  color:#fff;
+  border-bottom: 0px;
+}
+
+section#why-us {
+  padding-top: 1em;
+}
+section#why-us h2.anchored {
+  border-bottom: 0px;
+}
+

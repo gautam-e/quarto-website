@@ -5,6 +5,7 @@ website:
   title: "☸️"
   favicon: "☸️"
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
@@ -24,6 +25,10 @@ format:
     toc: false
     fontsize: large
     page-layout: full
+    grid: 
+      body-width: 1600px
+      margin-width: 1px
+      sidebar-width: 1px
     
 
 
