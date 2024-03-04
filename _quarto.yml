@@ -13,7 +13,7 @@ website:
   page-footer: 
     background: light 
     center: 
-      - text: reAUGMENT AI (UG)
+      - text: Reaugment AI (UG)
         file: index.qmd
       - text: Imprint
         file: about.qmd
