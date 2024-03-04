@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Reaugment AI (UG)\nDr.-Ing. Gautam Ethiraj\nMarianne-Kirchgeßner-Straße 31\n76646 Bruchsal\nGermany\ninfo@reaugment.ai"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Reaugment AI",
@@ -33,5 +26,12 @@
     "title": "Reaugment AI",
     "section": "✉️ Get in touch",
     "text": "✉️ Get in touch\nMarianne-Kirchgessner-Strasse 31, 76646 Bruchsal, Germany\ninfo@reaugment.ai\n+49-17683299041"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Reaugment AI (UG)\nDr.-Ing. Gautam Ethiraj\nMarianne-Kirchgeßner-Straße 31\n76646 Bruchsal\nGermany\ninfo@reaugment.ai"
   }
 ]
