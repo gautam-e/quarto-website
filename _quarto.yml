@@ -27,8 +27,9 @@ format:
     page-layout: full
     grid: 
       body-width: 1600px
-      margin-width: 1px
-      sidebar-width: 1px
+      margin-width: 0px
+      sidebar-width: 0px
+      gutter-width: 0em
     
 
 
